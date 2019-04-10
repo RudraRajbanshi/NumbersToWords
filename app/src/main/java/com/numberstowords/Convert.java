@@ -1,7 +1,7 @@
 package com.numberstowords;
 
 public class Convert {
-    private int num;
+    private int num; 
 
     public int getNum() {
         return num;
